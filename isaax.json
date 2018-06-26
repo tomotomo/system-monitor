@@ -1,0 +1,10 @@
+{
+  "name": "system-monitor",
+  "version": "0.1",
+  "description": "CPU monitoring",
+  "author": "your name",
+  "license": "MIT License",
+  "scripts": {
+    "start": "python3 -u server.py"
+  }
+}
